@@ -111,6 +111,7 @@ nav li a:hover {
 .fa-bars {
   font-size: 25px;
   color: var(--light);
+  cursor: pointer;
 }
 
 .fa-times {
@@ -120,6 +121,7 @@ nav li a:hover {
   position: absolute;
   top: 15px;
   left: 220px;
+  cursor: pointer;
 }
 
 /* HOME */
