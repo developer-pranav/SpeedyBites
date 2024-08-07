@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name": "Burger",
+        "img": "images/Food/Burger.png",
+        "price": 180,
+        "desc": "A juicy grilled potato patty with fresh lettuce, tomatoes, and a special sauce in a toasted bun."
+    },
+    {
+        "id": 2,
+        "name": "Pizza",
+        "img": "images/Food/Pizza.png",
+        "price": 140,
+        "desc": "A classic margherita pizza with mozzarella cheese, fresh basil, and a rich tomato sauce."
+    },
+    {
+        "id": 3,
+        "name": "French Fries",
+        "img": "images/Food/Fries.png",
+        "price": 70,
+        "desc": "Crispy golden fries seasoned with a blend of herbs and spices."
+        
+    },
+    {
+        "id": 4,
+        "name": "Sandwich",
+        "img": "images/Food/Sandwich.png",
+        "price": 70,
+        "desc": "A turkey and cheese sandwich with lettuce, tomatoes, and mayo on whole grain bread."
+    },
+    {
+        "id": 5,
+        "name": "Salad",
+        "img": "images/Food/Salad.png",
+        "price": 150,
+        "desc": "A fresh garden salad with a mix of greens, cucumbers, tomatoes, and a light vinaigrette."
+    },
+    {
+        "id": 6,
+        "name": "Pasta",
+        "img": "images/Food/Pasta.png",
+        "price": 140,
+        "desc": "Creamy Alfredo pasta with grilled chicken, topped with Parmesan cheese."
+    },
+    {
+        "id": 7,
+        "name": "Lemonade",
+        "img": "images/Food/Lemonade.png",
+        "price": 40,
+        "desc": "A refreshing glass of lemonade made with fresh lemons."
+    },
+    {
+        "id": 8,
+        "name": "Masala Tea",
+        "img": "images/Food/Tea.png",
+        "price": 30,
+        "desc": "A spiced blend of milk tea with traditional Indian herbs, perfect for a warm and cozy experience."
+    },
+    {
+        "id": 9,
+        "name": "Snack Meal",
+        "img": "images/Food/SnackMeal.png",
+        "price": 180,
+        "desc": "A delicious combo of burger, fries, one slice of pizza and a drink."
+    },
+    {
+        "id": 10,
+        "name": "Indian Plate",
+        "img": "images/Food/IndianPlate.png",
+        "price": 300,
+        "desc": "A traditional Indian plate with rice, dal, naan, and a side of chutney."
+    }
+]
