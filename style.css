@@ -510,21 +510,4 @@ footer {
     margin: 0;
     margin-top: 30px;
   }
-
-  footer {
-    height: 320px;
-  }
-
-  .u-foot h3 {
-    font-size: 20px;
-  }
-
-  .u-foot p {
-    font-size: 15px;
-    width: 80%;
-  }
-
-  .l-foot p {
-    font-size: 14px;
-  }
 }
