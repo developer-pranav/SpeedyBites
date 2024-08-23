@@ -1,17 +1,16 @@
 # SpeedyBites
 
-<img src="images/logo.png" alt="SkyCast Logo" width="200">
+<img src="images/logo.png" alt="SpeedyBites Logo" width="200">
 
 SpeedyBites is a user-friendly fast food website that provides quick and convenient meal options for hungry customers worldwide. It allows users to browse our extensive menu, customize orders, and place orders for immediate pickup or speedy delivery.
 
 ## Features
 
-- **Current Location Weather**: Get real-time weather updates for your current location.
-- **Air Quality Index (AQI)**: View the current air quality index for your location.
-- **Sunrise and Sunset Times**: Check the sunrise and sunset times for your location.
-- **5-Day Forecast**: View the weather forecast for the next five days.
-- **Search**: Easily search for weather information by city name or coordinates.
-- **User-friendly Interface**: Simple and intuitive UI for a seamless experience.
+- **Customizable Orders**: Customers can customize their food items by selecting options such as size, toppings, and special requests.
+- **Order Type Selection**: Users can choose between pickup or delivery based on their preference.
+- **Real-Time Order Tracking**: Provides updates on the status of the order, from preparation to delivery.
+- **Secure Payment Integration**: Supports multiple payment methods, including credit/debit cards and mobile wallets.
+- **Order Summary**: Displays a detailed summary of the items, prices, and any customization options before finalizing the purchase.
 
 
 ## Live Preview
